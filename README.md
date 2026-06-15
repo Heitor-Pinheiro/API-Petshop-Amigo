@@ -454,9 +454,3 @@ Para dúvidas ou problemas:
 - [ ] CRUD de produtos funcionando
 - [ ] Histórico registrando eventos
 - [ ] Interface responsiva testada
-
----
-
-**Versão:** 0.0.1  
-**Última atualização:** Junho 2024  
-**Maintainer:** Seu Nome/Time
